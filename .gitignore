@@ -1,32 +1,47 @@
-# Prerequisites
-*.d
+Maps
+eqemu_config.json
+eqemu_server.pl
+eqlaunch
+export_client_files
+import_client_files
+libcommon.a
+libluabind.a
+login.json
+login_opcodes.conf
+login_opcodes_sod.conf
+loginserver
+logs/
+mail_opcodes.conf
+maps/
+opcodes.conf
+patch_RoF.conf
+patch_RoF2.conf
+patch_SoD.conf
+patch_SoF.conf
+patch_Titanium.conf
+patch_UF.conf
+queryserv
+quests_old/
+server_launcher.pl
+server_start.sh
+server_start_dev.sh
+server_start_with_login.sh
+server_status.sh
+server_stop.sh
+shared/
+shared_memory
+ucs
+world
+zone
+html/peq/logs/*
+html/peq/config.php
+html/forum/config.php
+html/forum/cache/*
+html/forum/images/avatars/
+html/config.php 
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+db/
+backups/
+database_dumper.pl
+db_update/
+tools/
